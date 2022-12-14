@@ -1,0 +1,59 @@
+cretea your own project where you use machine learning/AI
+
+1. Which problem are you trying to solve
+    - for example: 
+        - identify things/animals/people in the pictures
+        - interpret a hand written text
+        - predict weather
+        - predict a stock price
+        - interprete paients data to predict risk of certain disease
+        - identify fake news
+
+
+        I might go for
+            -  stock price prediction
+2. Start by describing the problem in text and what it is that you want to do 
+
+3. Find data that can help solve the problem
+    - Can you make a variation of your problem that can be solved with the data you found? If not, define a new problem and try again.
+
+4. The data can come from different sources
+    - Get to know your data 
+    - Is it complete?
+    - Do you have null values?
+    -  Do you have extreme values?
+    - What data type do you have? 
+    - Which fields in your data set do you want to use?
+    - How can you convert all fields you want into numeric data format?
+    - 
+
+
+5. Type of problem
+    - What kind of problem are you trying to solve?
+    - Is it classification or  regression problem?
+    - Is your data labeled (so you have ready answers to feed your model with during training)?
+    -If not, how should you get it? 
+    - Should you create labels yourself or do you want to try using unsupervised learning (works well on classification problems but not regression problems)?
+    - Do you want to work with Reinforcement Learning and deep neural networks instead?
+
+6 . You can think about what you want to achieve and what data you want to feed your network with.
+        - How should it be structured?
+        - How should you interpret reward/punishment system look like?
+        - How should you interpret the output you get from the network? 
+        - Which training platform do you want to use to train your network?
+
+7. Document
+    - Create a document where you describe the problem
+    - The solution (according to the questions above) that you have arrived at.
+    - If you use datasets, describe the data you found.
+        - How many rows do you have? How is the quality of the data?
+
+tips from Joakim
+// if you have a problem and you want to have answers
+    - that is a classification problem
+    - punishment and rewards? - have  like trial and error 
+        - use it with Reinforcement learning
+        - in this case you don't know the conclusion
+        - but then you can try find a solution for example: self driven cars
+        - is more like having an object learn by itself therefore you don't have to program everything the object can learn with time
+        - another example is robotic
