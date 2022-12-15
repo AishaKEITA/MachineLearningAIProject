@@ -16,13 +16,13 @@ cretea your own project where you use machine learning/AI
     - Can you make a variation of your problem that can be solved with the data you found? If not, define a new problem and try again.
 
 4. The data can come from different sources
-    - Get to know your data 
+    
+    - How can you convert all fields you want into numeric- Get to know your data 
     - Is it complete?
     - Do you have null values?
     -  Do you have extreme values?
     - What data type do you have? 
-    - Which fields in your data set do you want to use?
-    - How can you convert all fields you want into numeric data format?
+    - Which fields in your data set do you want to use? data format?
     - 
 
 
